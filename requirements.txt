@@ -3,3 +3,4 @@ speechrecognition
 gtts
 openai
 pyaudio
+
